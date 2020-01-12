@@ -1,1 +1,1 @@
-Extract all the folders present in the 'src' folder there only.
+Extract all the folders present in the 'src' folder in that same folder itself.
